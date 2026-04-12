@@ -5,7 +5,7 @@ Centralized settings management with environment variable support.
 import os
 from typing import Optional, List, Dict
 from pydantic_settings import BaseSettings
-from pydantic import Field
+from pydantic import Field, ConfigDict
 from enum import Enum
 
 
@@ -26,6 +26,8 @@ class FusionMode(str, Enum):
 class Settings(BaseSettings):
     """Application settings loaded from environment variables."""
 
+    model_config = ConfigDict(extra="ignore", env_file=".env", env_file_encoding="utf-8")
+
     # === App ===
     app_name: str = "Matreshka"
     app_version: str = "0.1.0"
@@ -36,20 +38,17 @@ class Settings(BaseSettings):
     language: str = "ru"  # ru | en
 
     # === Database ===
-    database_url: str = "postgresql+asyncpg://matreshka:matreshka@localhost:5432/matreshka"
+    database_url: str = "sqlite+aiosqlite:///./matreshka.db"
     redis_url: str = "redis://localhost:6379/0"
 
     # === Exchange API Keys ===
     bybit_api_key: Optional[str] = None
     bybit_api_secret: Optional[str] = None
     bybit_testnet: bool = True
-
     mexc_api_key: Optional[str] = None
     mexc_api_secret: Optional[str] = None
-
     bitunix_api_key: Optional[str] = None
     bitunix_api_secret: Optional[str] = None
-
     binance_api_key: Optional[str] = None
     binance_api_secret: Optional[str] = None
 
@@ -74,7 +73,7 @@ class Settings(BaseSettings):
     max_concurrent_positions: int = 5
     max_risk_per_trade: float = 0.02  # 2%
     max_daily_loss: float = 0.05  # 5%
-    cooldown_after_losses: int = 3  # pause after N consecutive losses
+    cooldown_after_losses: int = 3
     default_leverage: int = 5
 
     # === Screener ===
@@ -95,11 +94,6 @@ class Settings(BaseSettings):
     backtest_end_date: str = "2025-01-01"
     walk_forward_windows: int = 5
     optuna_trials: int = 100
-
-    class Config:
-        env_file = ".env"
-        env_file_encoding = "utf-8"
-        env_prefix = "MATRESHKA_"
 
 
 # Singleton
