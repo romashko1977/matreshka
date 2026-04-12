@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "Matreshka",
+    "subtitle": "AI Crypto Screener Platform"
+  },
+  "nav": {
+    "overview": "Overview",
+    "screener": "Screener",
+    "strategies": "Strategies",
+    "signals": "Signals",
+    "ai_advisor": "AI Advisor",
+    "optimization": "Optimization",
+    "execution": "Execution",
+    "alerts": "Alerts",
+    "settings": "Settings"
+  },
+  "overview": {
+    "market_pulse": "Market Pulse",
+    "top_signals": "Top Signals",
+    "consensus": "Consensus",
+    "risk_state": "Risk State",
+    "active_positions": "Active Positions",
+    "daily_pnl": "Daily PnL",
+    "total_signals": "Total Signals"
+  },
+  "screener": {
+    "title": "Coin Screener",
+    "symbol": "Symbol",
+    "price": "Price",
+    "change_24h": "24h Change",
+    "volume": "Volume",
+    "signal": "Signal",
+    "score": "Score",
+    "confidence": "Confidence",
+    "regime": "Regime",
+    "strategies_agree": "Strategy Agreement"
+  },
+  "strategies": {
+    "title": "Strategy Lab",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "weight": "Weight",
+    "performance": "Performance",
+    "parameters": "Parameters",
+    "risk_profile": "Risk Profile",
+    "regime_fit": "Regime Fit"
+  },
+  "signals": {
+    "title": "Signal Analysis",
+    "fused_signal": "Fused Signal",
+    "contributing": "Contributing",
+    "consensus": "Consensus",
+    "divergence": "Divergence",
+    "long": "LONG",
+    "short": "SHORT",
+    "neutral": "NEUTRAL"
+  },
+  "execution": {
+    "title": "Execution Center",
+    "mode": "Mode",
+    "monitor": "Monitor",
+    "paper": "Paper Trading",
+    "semi_auto": "Semi-Auto",
+    "full_auto": "Full Auto",
+    "entry": "Entry",
+    "stop_loss": "Stop Loss",
+    "take_profit": "Take Profit",
+    "leverage": "Leverage",
+    "open_order": "Open Order"
+  },
+  "settings": {
+    "title": "Settings & API Keys",
+    "exchanges": "Exchanges",
+    "telegram": "Telegram",
+    "coinglass": "Coinglass",
+    "fpi": "FPI",
+    "ai_providers": "AI Providers",
+    "webhooks": "Webhooks",
+    "test_connection": "Test Connection",
+    "save": "Save",
+    "api_key": "API Key",
+    "api_secret": "API Secret",
+    "connected": "Connected",
+    "disconnected": "Disconnected"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "refresh": "Refresh",
+    "export": "Export",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "language": "Language"
+  }
+}
