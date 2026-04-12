@@ -1,0 +1,98 @@
+{
+  "app": {
+    "name": "Matreshka",
+    "subtitle": "AI Crypto Screener Platform"
+  },
+  "nav": {
+    "overview": "Обзор",
+    "screener": "Скринер",
+    "strategies": "Стратегии",
+    "signals": "Сигналы",
+    "ai_advisor": "AI Советник",
+    "optimization": "Оптимизация",
+    "execution": "Торговля",
+    "alerts": "Уведомления",
+    "settings": "Настройки"
+  },
+  "overview": {
+    "market_pulse": "Пульс рынка",
+    "top_signals": "Топ сигналы",
+    "consensus": "Консенсус",
+    "risk_state": "Состояние риска",
+    "active_positions": "Активные позиции",
+    "daily_pnl": "PnL за день",
+    "total_signals": "Всего сигналов"
+  },
+  "screener": {
+    "title": "Скринер монет",
+    "symbol": "Монета",
+    "price": "Цена",
+    "change_24h": "Изм. 24ч",
+    "volume": "Объем",
+    "signal": "Сигнал",
+    "score": "Оценка",
+    "confidence": "Уверенность",
+    "regime": "Режим",
+    "strategies_agree": "Согласие стратегий"
+  },
+  "strategies": {
+    "title": "Лаборатория стратегий",
+    "enabled": "Включена",
+    "disabled": "Выключена",
+    "weight": "Вес",
+    "performance": "Результат",
+    "parameters": "Параметры",
+    "risk_profile": "Профиль риска",
+    "regime_fit": "Подходящий режим"
+  },
+  "signals": {
+    "title": "Анализ сигналов",
+    "fused_signal": "Объединенный сигнал",
+    "contributing": "Составляющие",
+    "consensus": "Консенсус",
+    "divergence": "Расхождение",
+    "long": "ЛОНГ",
+    "short": "ШОРТ",
+    "neutral": "НЕЙТРАЛЬНО"
+  },
+  "execution": {
+    "title": "Центр торговли",
+    "mode": "Режим",
+    "monitor": "Мониторинг",
+    "paper": "Бумажная торговля",
+    "semi_auto": "Полуавто",
+    "full_auto": "Автоматически",
+    "entry": "Вход",
+    "stop_loss": "Стоп-лосс",
+    "take_profit": "Тейк-профит",
+    "leverage": "Плечо",
+    "open_order": "Открыть ордер"
+  },
+  "settings": {
+    "title": "Настройки и API ключи",
+    "exchanges": "Биржи",
+    "telegram": "Телеграм",
+    "coinglass": "Coinglass",
+    "fpi": "FPI",
+    "ai_providers": "AI провайдеры",
+    "webhooks": "Вебхуки",
+    "test_connection": "Тест соединения",
+    "save": "Сохранить",
+    "api_key": "API ключ",
+    "api_secret": "API секрет",
+    "connected": "Подключено",
+    "disconnected": "Отключено"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "cancel": "Отмена",
+    "confirm": "Подтвердить",
+    "refresh": "Обновить",
+    "export": "Экспорт",
+    "dark_mode": "Темная тема",
+    "light_mode": "Светлая тема",
+    "language": "Язык"
+  }
+}
