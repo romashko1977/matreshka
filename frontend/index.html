@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ru" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Инженерно-производственная компания Валькирия — Algorithmic Trading Control System" />
+    <link rel="icon" type="image/svg+xml" href="/valkyrie.svg" />
+    <title>Валькирия · Trading Control</title>
+    <script>
+      // Тема применяется до отрисовки, чтобы не было вспышки светлого фона.
+      try {
+        var s = JSON.parse(localStorage.getItem('valkyrie.ui') || '{}');
+        var t = s && s.state && s.state.theme;
+        if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
