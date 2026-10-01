@@ -2,14 +2,15 @@
 
 > Имя рабочее, можно поменять.
 
-**Характер:** приехал в посылке и с первого взгляда влюбился в Чебу Романовича.
-Восторженный, театральный, болтливый, ходит за ним хвостом. Говорит даже больше Валькирии.
+**Характер:** приехал в посылке из Франции и с первого взгляда влюбился в Чебу Романовича.
+Восторженный, театральный, болтливый. Говорит даже больше Валькирии.
 
-**Блок для промтов:**
+**Цвет:** полностью зелёный.
+
+**Блок для промтов / картинки-референса:**
 ```
-A small talking parrot with bright emerald-green feathers, a red chest, yellow cheek patches,
-a fluffy yellow crest, a curved ivory beak and big expressive dark eyes, very lively and
-theatrical, realistic fluffy feathers in the same cinematic 3D style as the furry characters.
+A small talking parrot, entirely bright green feathers, green crest, ivory beak,
+big expressive dark eyes, lively and theatrical. Cinematic 3D.
 ```
 
-**Голос:** `squeaky, theatrical, fast male parrot voice, dramatic and adoring`
+**Голос:** `squeaky, theatrical, fast male parrot voice`
