@@ -36,14 +36,19 @@ CHEBU (low, husky voice, quiet): "Тикает?.. Нет. Дышит."
 ```
 
 ## Сцена 3. Любовь с первого взгляда (8 сек)
-**Референс:** Чебу + попугай
+**Референс:** Чебу + попугай. Продолжение сцены 2: тот же ящик на кухонном столе.
 
 ```
-The lid flies off, straw bursts into the air. A small parrot with bright emerald-green
-feathers, a red chest, yellow cheeks and a fluffy yellow crest pops out, shakes his feathers,
-then sees the furry creature with huge round ears. Time slows down: soft pink glow, sparkles,
-tiny floating hearts, the parrot's eyes become huge and dreamy, his crest stands up. Romantic
-slow motion, close-up on the parrot, cinematic 3D, comedic.
+Continuation of the previous shot: the same open wooden crate with air holes on the kitchen
+table, the stern furry creature with huge round ears in a flat cap still holding the small
+crowbar. The lid bursts open, straw flies into the air, and a small parrot with bright
+emerald-green feathers, a red chest, yellow cheeks and a fluffy yellow crest shoots out of the
+crate. In mid-air he sees the furry creature and time slows down: soft pink glow, sparkles,
+tiny floating hearts, the parrot's eyes become huge and dreamy, his crest stands up. He flies
+straight at him and hugs him tightly around the neck with both wings, pressing his cheek to
+the furry face. The furry creature freezes, eyes wide, crowbar in hand.
+Romantic slow motion turning into comedic freeze, medium close-up, warm kitchen light,
+cinematic 3D.
 Dialogue in Russian, with lip-sync:
 PARROT (squeaky, theatrical male parrot voice, breathless): "Ох... Какие уши..."
 ```
@@ -52,8 +57,8 @@ PARROT (squeaky, theatrical male parrot voice, breathless): "Ох... Какие 
 **Референс:** Чебу + попугай
 
 ```
-The green parrot flies onto the shoulder of the stern furry creature in the flat cap and
-lovingly rubs his head against his cheek, fluttering and chattering non-stop. The furry
+The green parrot, still hugging the stern furry creature in the flat cap, settles on his
+shoulder and lovingly rubs his head against his cheek, fluttering and chattering non-stop. The furry
 creature stands absolutely still with a stone-cold face; only his cigar slowly droops down.
 Static medium shot, comedic timing, warm kitchen light, cinematic 3D.
 Dialogue in Russian, with lip-sync:
