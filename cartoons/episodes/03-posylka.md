@@ -72,17 +72,21 @@ CHEBU (low, husky, angry, loud): "Я от вашей радуги-дуги ел�
 > ролик (extend / последний кадр как первый) планами 3–4 с тем же промтом.
 
 ## Сцена 6. Два болтуна (8 сек)
+**Референс:** Чебу + Валькирия (картинку обрезать, чтобы на ней была только она, без сына).
 ```
-Valkyria enters the kitchen and talks fast. The green parrot talks back just as fast.
+The hero's wife enters the kitchen: an adult woman furry creature, grown-up and slender,
+as tall as the hero, light golden-brown fur, huge round ears, green-hazel eyes with long lashes,
+mint-green lace dress with satin bows. She talks fast. The green parrot talks back just as fast.
 The furry hero sits between them, head turning left-right, then folds his ears over his eyes.
 Wide shot. Warm light. Cinematic 3D, comedic chaos.
-VALKYRIA (warm, very fast): "Чебушка, это кто? Он кусается?"
+Not a child, not a little girl: she is his adult wife.
+WIFE (warm adult female voice, very fast): "Чебушка, это кто? Он кусается?"
 PARROT (squeaky, fast): "Жорик! Редко! Люблю его!"
 ```
 
 ## Сцена 7. Дирк (8 сек)
 ```
-Dirk, in an orange t-shirt and goggles on his forehead, runs in and points at the green parrot.
+The hero's little son, a small child furry creature in an orange t-shirt with goggles on his forehead, runs in and points at the green parrot.
 The parrot puffs his chest and puts a wing on his heart.
 Tracking shot at child height. Warm light. Cinematic 3D.
 DIRK (high-pitched, excited): "Пап, он говорящий!"
