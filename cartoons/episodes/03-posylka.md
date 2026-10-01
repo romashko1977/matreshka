@@ -3,7 +3,7 @@
 **Сюжет:** Чебу Романович получает посылку. Внутри говорящий зелёный попугай, который с первого
 взгляда в него влюбляется. Чебу допрашивает его, но в итоге оставляет.
 
-**Длительность:** ~83 секунды, 10 сцен.
+**Длительность:** ~80 секунд, 8 сцен.
 **Референсы:** Чебу Романович, Валькирия, Дирк, попугай (`characters/parrot.md`).
 
 **Короткие обозначения в промтах:**
@@ -46,33 +46,30 @@ Static medium shot. Warm light. Cinematic 3D, comedic.
 PARROT (squeaky, fast, adoring): "Красавчик! Мой герой! Я твой. Навсегда!"
 ```
 
-## Сцена 5а. Допрос (8 сек)
+## Сцена 5. Допрос (~24 сек, одна сцена из 4 планов)
 ```
-The furry hero puts the green parrot on the table and leans in like an interrogator.
-One lamp above the table. The parrot shivers, hugging himself with his wings.
-Shot-reverse-shot close-ups. Cinematic 3D, comedic.
+Kitchen table, one lamp above it, like an interrogation room. Warm light. Cinematic 3D, comedic.
+
+Shot 1: The furry hero puts the green parrot on the table and leans in like an interrogator.
+The parrot shivers, hugging himself with his wings.
 CHEBU (low, husky, suspicious): "Ты кто такой, зелёный? Кто тебя послал?"
 PARROT (squeaky, complaining): "Из Франции сбежал. Холодно там. Газ-то вы перекрыли."
-```
 
-## Сцена 5б. «Можно?» (8 сек)
-```
-The furry hero leans back and waves his hand, smirking.
-The green parrot clasps his wings and asks sweetly.
-Snap zoom on the hero: eyes go round, the cigar falls from his mouth. Silence.
-Cinematic 3D, comedic timing.
+Shot 2: The furry hero leans back and waves his hand, smirking.
 CHEBU (low, husky, ironic): "Летел бы к Зелепуперу. У него газа много."
-PARROT (squeaky, sweet): "Мы скоро все к вам переедем. Можно?"
-```
-**Звук:** тишина, стук сигары, сверчок.
 
-## Сцена 5в. «Через почту?!» (8 сек)
-```
-The furry hero jumps up from his chair, outraged, ears raised, pointing at the green parrot.
+Shot 3: The green parrot clasps his wings and asks sweetly.
+PARROT (squeaky, sweet): "Мы скоро все к вам переедем. Можно?"
+Snap zoom on the hero: eyes go round, the cigar falls from his mouth. Silence.
+
+Shot 4: The furry hero jumps up, outraged, ears raised, pointing at the parrot.
 The parrot shrinks and blinks innocently.
-Medium shot, quick push-in. Warm light. Cinematic 3D, comedic.
 CHEBU (low, husky, angry, loud): "Я от вашей радуги-дуги еле задницу унёс! Так вы меня и в России через почту достать решили?"
 ```
+**Звук:** после «Можно?» тишина, стук сигары, сверчок, потом взрыв Чебу.
+
+> Если генератор не даёт столько секунд за раз: сгенерировать планы 1–2, затем продлить
+> ролик (extend / последний кадр как первый) планами 3–4 с тем же промтом.
 
 ## Сцена 6. Два болтуна (8 сек)
 ```
